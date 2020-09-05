@@ -1,2 +1,2 @@
 # Rent-a-car
-Renr-a-car app built with HTML and CSS
+Rent-a-car app built with HTML and CSS
