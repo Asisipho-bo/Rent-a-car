@@ -73,6 +73,7 @@ header .logo-container img{
     margin-left: 200px;
     padding: 1px 16px;
     height: 1000px;
+    position: fixed;
 }
 
 .display-container h1{
