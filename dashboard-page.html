@@ -4,15 +4,63 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="dashboard-page.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <title>Dashboard</title>
 </head>
+
 <body>
     <header>
         <div class="logo-container">
             <img src="https://d33wubrfki0l68.cloudfront.net/6028c16267fd3dfae7a089a32a0df6f590e01662/e8bbe/_next/static/images/logo_blue-8ff099701b53f0f7019bbca03c73cccc.png" alt="logo">
         </div>
+        <div class="sidebar">
+            <div class="menu">
+                <ul>
+                    <li><span class="menu-item active-span">
+                        <i class="material-icons active">history</i>
+                    <span>History</span>
+                    </span></li>
+                    <li><span class="menu-item">
+                        <i class="material-icons">credit_card</i>
+                    <span>Cards</span>
+                    </span></li>
+                    <li><span class="menu-item">
+                        <i class="material-icons">email</i>
+                    <span>Messages</span>
+                    </span></li>
+                </ul>
+            </div>
+            
+                
+        </div>
     </header>
 
-    
+    <div class="display-container">
+        <h1><i>Payment successful!</i></h1>
+        <div class="display-boxes">
+            <div class="display-box1">
+                <ul>
+                    <li>
+                        <i class="material-icons">account_circle</i>
+                        <h4>John Doe</h4>
+                        <h5>Car: Toyota Venza<br><br> Pickup date: 10 Sept 2020<br><br>Drop-off: 17 Sept 2020 <br><br> Insurance: Yes</h5>
+                   </li>
+               </ul> 
+            </div>
+            <div class="display-box2">
+                <ul>
+                    <li>
+                        <i class="material-icons">credit_card</i>
+                        <h4>**** **** *** *** *2047</h4>
+                        <h5>Card holder: John Doe</h5>
+                        <i class="material-icons">credit_card</i>
+                        <h4>**** **** *** *** *9034</h4>
+                        <h5>Card holder: John Doe</h5>
+                   </li>
+               </ul> 
+            </div>
+        </div>
+    </div> 
+        
 </body>
 </html>
