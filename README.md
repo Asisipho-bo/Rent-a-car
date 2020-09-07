@@ -16,8 +16,7 @@ Rent-a-car app built with HTML and CSS
 This project is a responsive blogpost website built with HTML and CSS.
 
 ## Screenshots
-
-
+https://github.com/Asisipho-bo/Rent-a-car/issues/1#issue-695207258
 
 ## Technologies
 Project is created with:
