@@ -28,8 +28,7 @@ Project is created with:
 To run this project, install it locally 
 
 ## Features
-* Responsiveness
-
+* Static
 
 ## Status
 Project is: finished, it was for a Zaio assignment
